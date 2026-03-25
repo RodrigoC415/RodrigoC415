@@ -11,10 +11,12 @@ passionate about Data Analytics
 
 ## 🚀 Projects
 
-### 📡 Network Monitoring System
-![screenshot do grafana](link_da_imagem)
-Python · PostgreSQL · Grafana
+### Telco Churn Analysis 
+![screenshot do projeto](assets/Dashboard.png)
 
-### ⚽ Football Data Analysis  
-![screenshot do projeto](link_da_imagem)
-Python · PostgreSQL · Pandas
+
+### Network Monitoring System
+![screenshot do grafana](assets/phase3_dashboard.png)
+
+
+
