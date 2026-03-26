@@ -1,6 +1,8 @@
 # 💫 About Me:
-Telecommunications & Computer Engineering Graduate  
+Telecommunications & Computer Engineering Graduate
 passionate about Data Analytics
+
+📍 Felgueiras, Portugal
 
 
 ## 🌐 Socials:
